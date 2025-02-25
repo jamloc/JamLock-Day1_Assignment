@@ -1,6 +1,5 @@
-SE_Day1_Assignment
+Jamloc - Day1 - Assignment
 
-#Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering isthe systematic prcoess of designing, developing, testing and maining software applications to solve reald world challenges.
